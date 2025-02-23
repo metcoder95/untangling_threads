@@ -1,0 +1,12 @@
+{
+  "name": "untangling_threads",
+  "version": "0.0.0",
+  "description": "Demo project for Untangling Threads presentation",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"noop\""
+  },
+  "author": "Carlos Fuentes <me@metcoder.dev> (https://metcoder.dev/)",
+  "license": "MIT"
+}
