@@ -8,5 +8,8 @@
     "test": "echo \"noop\""
   },
   "author": "Carlos Fuentes <me@metcoder.dev> (https://metcoder.dev/)",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "piscina": "^5.0.0-alpha.1"
+  }
 }
